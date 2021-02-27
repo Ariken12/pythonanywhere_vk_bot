@@ -1,4 +1,4 @@
 
-token = 'e55dfb01f64af22bc06d37c7ccec5b9be98fb79a2855a8c0d77550aaee10244f332b66298d75e979984e0'
-confirmation_token = 'ab31d24f'
-service_token = 'cb1c1df8cb1c1df8cb1c1df8edcb6e73deccb1ccb1c1df895c5fb86365e0f5fb096604c'
+token = 'VK_TOKEN'
+confirmation_token = 'CONFIRMATION_TOKEN'
+service_token = 'GROUP_TOKEN'
